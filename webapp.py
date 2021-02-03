@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 
-lbm_model = pickle.load(open('llbm.pkl','rb'))
+lbm_model = pickle.load(open('lbm.pkl','rb'))
 
 def main():
     import streamlit as st
