@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import pickle
 
-dataset = pd.read_csv('C:\\Users\\anish\\Documents\\DATA_SCIENCE_JUPYTER\\TECHNOCOLABS_INTERNSHIP\\newd.csv')
+dataset = pd.read_csv('C:\\Users\\\\Documents\\DATA_SCIENCE_JUPYTER\\TECHNOCOLABS_INTERNSHIP\\newd.csv')
 dataset.head()
 dataset.isnull().sum()
 
